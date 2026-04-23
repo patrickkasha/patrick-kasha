@@ -23,7 +23,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://patrickkasha.github.io/)
+### [🏆 Check Out My Full Portfolio Website]https://github.com/patrickkasha/sql-portfolio
       
 ## 🔭 What I'm Currently Working On 
 
