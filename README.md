@@ -1,4 +1,4 @@
-## Hi there, I'm Brandon Vives👋
+## Hi there, I'm Patrick Kasha👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
